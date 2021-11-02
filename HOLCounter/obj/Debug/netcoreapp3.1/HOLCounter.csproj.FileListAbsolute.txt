@@ -1,0 +1,13 @@
+C:\Users\julia.voronetskaja\source\repos\titpe21\MoreStrings\HOLCounter\bin\Debug\netcoreapp3.1\HOLCounter.exe
+C:\Users\julia.voronetskaja\source\repos\titpe21\MoreStrings\HOLCounter\bin\Debug\netcoreapp3.1\HOLCounter.deps.json
+C:\Users\julia.voronetskaja\source\repos\titpe21\MoreStrings\HOLCounter\bin\Debug\netcoreapp3.1\HOLCounter.runtimeconfig.json
+C:\Users\julia.voronetskaja\source\repos\titpe21\MoreStrings\HOLCounter\bin\Debug\netcoreapp3.1\HOLCounter.runtimeconfig.dev.json
+C:\Users\julia.voronetskaja\source\repos\titpe21\MoreStrings\HOLCounter\bin\Debug\netcoreapp3.1\HOLCounter.dll
+C:\Users\julia.voronetskaja\source\repos\titpe21\MoreStrings\HOLCounter\bin\Debug\netcoreapp3.1\HOLCounter.pdb
+C:\Users\julia.voronetskaja\source\repos\titpe21\MoreStrings\HOLCounter\obj\Debug\netcoreapp3.1\HOLCounter.csprojAssemblyReference.cache
+C:\Users\julia.voronetskaja\source\repos\titpe21\MoreStrings\HOLCounter\obj\Debug\netcoreapp3.1\HOLCounter.AssemblyInfoInputs.cache
+C:\Users\julia.voronetskaja\source\repos\titpe21\MoreStrings\HOLCounter\obj\Debug\netcoreapp3.1\HOLCounter.AssemblyInfo.cs
+C:\Users\julia.voronetskaja\source\repos\titpe21\MoreStrings\HOLCounter\obj\Debug\netcoreapp3.1\HOLCounter.csproj.CoreCompileInputs.cache
+C:\Users\julia.voronetskaja\source\repos\titpe21\MoreStrings\HOLCounter\obj\Debug\netcoreapp3.1\HOLCounter.dll
+C:\Users\julia.voronetskaja\source\repos\titpe21\MoreStrings\HOLCounter\obj\Debug\netcoreapp3.1\HOLCounter.pdb
+C:\Users\julia.voronetskaja\source\repos\titpe21\MoreStrings\HOLCounter\obj\Debug\netcoreapp3.1\HOLCounter.genruntimeconfig.cache
